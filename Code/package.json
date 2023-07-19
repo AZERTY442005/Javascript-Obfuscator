@@ -1,0 +1,23 @@
+{
+    "name": "discord.js-v12-v13-converter",
+    "version": "1.0.0",
+    "description": "Discord.js v12 to v13 Converter",
+    "main": "./Code/index.js",
+    "Author": "Discord: @AZERTY442005",
+    "license": "ISC",
+    "dependencies": {
+        "cli-progress": "^3.12.0",
+        "figlet": "^1.5.2",
+        "fs": "^0.0.1-security",
+        "inquirer": "^8.2.4",
+        "javascript-obfuscator": "^4.0.2",
+        "lolcatjs": "^2.4.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "Javascript",
+        "Obfuscator"
+    ]
+}
